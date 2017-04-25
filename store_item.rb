@@ -16,6 +16,5 @@ end
 
   puts item_1.color
   puts item_1.price
-  puts item_1.brand 
 
 
